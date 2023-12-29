@@ -1,4 +1,4 @@
-# README for Scholarly Search Tool
+# README for Google Scholar Search Tool
 
 ## Overview
 
